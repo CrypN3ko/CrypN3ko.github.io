@@ -1,0 +1,39 @@
+header{
+  display: flex;
+  background-color: rgb(128, 15, 15);
+}
+header ul{
+  display: flex;
+}
+body{
+  background-color: #222222;
+}
+body a{
+  color: white;
+}
+#nameLogo{
+  height: 100px;
+  justify-content: center;
+  display: flex;
+
+}
+.nameCard a{
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  margin: 10px 0px;
+}
+#name{
+  font-size: x-large;
+}
+.links{
+  display: flex;
+  justify-content: center;
+}
+.links img{
+  height: 40px;
+  margin: 0px 10px;
+}
+footer{
+  background-color: #000;
+}
